@@ -1,12 +1,12 @@
 ### Hi there 👋
-I am Realinspirer and welcome to my github page! I am a programmer and game developer.
-For now, I am mostly working on making games. Thought currently learning Web Development, to make my GitHub webpage.
+I am Realinspirer and welcome to my github page! I am a programmer and game developer.</br>
+For now, I am mostly working on making games. Though currently learning Web Development, to make my GitHub webpage.</br>
 That's it for now!
 
-Contact me via email - realinspirer@outlook.com
-My Xbox gamertag 🎮 - Realinspirer
 
-PS - I don't play games for now, but do love watching playthroughs!
+Contact me via email - realinspirer@outlook.com</br>
+My Xbox gamertag 🎮 - Realinspirer</br>
+PS - I don't play games for now, but do love watching playthroughs!</br>
 
 <!--
 **Realinspirer/Realinspirer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
