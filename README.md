@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 I am Realinspirer and welcome to my github page! I am a programmer and game developer.</br>
 For now, I am mostly working on making games. Though currently learning Web Development, to make my GitHub webpage.</br>
 That's it for now!
